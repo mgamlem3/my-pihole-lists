@@ -1,18 +1,18 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1653323195,1656395886,StevenBlack,1656397683,109483,0,2
-2,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext,1,1656395893,1656395893,"Peter Lowe&#039;s List",1656397688,3644,0,2
-4,https://adaway.org/hosts.txt,1,1656395977,1656395977,"AdAway Default",1656397694,7030,0,2
-5,https://dbl.oisd.nl/,1,1656396000,1656396000,"DBL OISD",1656397697,1092044,0,2
-6,https://someonewhocares.org/hosts/zero/hosts,1,1656396032,1656396032,"Dan Pollock&#039;s List",1656397698,10373,0,2
-8,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1656396093,1656396093,WindowsSpyBlocker,1656397698,347,0,2
-9,https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts,1,1656396112,1656396112,"The Big List of Hacked Malware Web Sites",1656397698,13820,1,2
-10,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1656396133,1656396133,"Spam 404",1656397683,8147,0,2
-14,https://v.firebog.net/hosts/static/w3kbl.txt,1,1656396741,1656396741,w3kbl,1656397684,356,0,2
-15,https://v.firebog.net/hosts/AdguardDNS.txt,1,1656396776,1656396776,"Firebog Adguard",1656397684,45304,0,2
-16,https://v.firebog.net/hosts/Easylist.txt,1,1656396806,1656396806,EasyList,1656397684,17508,0,2
-17,https://v.firebog.net/hosts/Easyprivacy.txt,1,1656396820,1656396820,EasyPrivacy,1656397686,12920,0,2
-18,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1656396865,1656396865,"Anti Malware",1656397686,7879,0,2
-19,https://www.github.developerdan.com/hosts/lists/facebook-extended.txt,1,1656397000,1656397000,"DeveloperDan Facebook",1656397687,29588,0,2
-20,https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt,1,1656397020,1656397020,"DeveloperDan AMP",1656397688,15783,0,2
-21,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1656397091,1656397091,"DeveloperDan Ads&Tracking",1656397690,421499,0,2
-22,https://dbl.oisd.nl,1,1656397175,1656397175,"DBL OISD",1656397693,1092044,0,2
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1653323195,1656395886,StevenBlack,1658720361,131730,0,2
+2,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext,1,1656395893,1656395893,"Peter Lowe&#039;s List",1658720363,3640,0,2
+4,https://adaway.org/hosts.txt,1,1656395977,1656395977,"AdAway Default",1658720364,7038,0,2
+5,https://dbl.oisd.nl/,1,1656396000,1656396000,"DBL OISD",1658720372,1252460,0,2
+6,https://someonewhocares.org/hosts/zero/hosts,1,1656396032,1656396032,"Dan Pollock&#039;s List",1658720373,10413,0,2
+8,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1656396093,1656396093,WindowsSpyBlocker,1658720373,347,0,2
+9,https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts,1,1656396112,1656396112,"The Big List of Hacked Malware Web Sites",1658720374,13820,1,2
+10,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1656396133,1656396133,"Spam 404",1658720375,8147,0,2
+14,https://v.firebog.net/hosts/static/w3kbl.txt,1,1656396741,1656396741,w3kbl,1658720375,356,0,2
+15,https://v.firebog.net/hosts/AdguardDNS.txt,1,1656396776,1656396776,"Firebog Adguard",1658720376,46094,0,2
+16,https://v.firebog.net/hosts/Easylist.txt,1,1656396806,1656396806,EasyList,1658720377,17749,0,2
+17,https://v.firebog.net/hosts/Easyprivacy.txt,1,1656396820,1656396820,EasyPrivacy,1658720377,13005,0,2
+18,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1656396865,1656396865,"Anti Malware",1658720378,8214,0,2
+19,https://www.github.developerdan.com/hosts/lists/facebook-extended.txt,1,1656397000,1656397000,"DeveloperDan Facebook",1658720379,29849,0,2
+20,https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt,1,1656397020,1656397020,"DeveloperDan AMP",1658720380,15787,0,2
+21,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1656397091,1656397091,"DeveloperDan Ads&Tracking",1658720383,424129,0,2
+22,https://dbl.oisd.nl,1,1656397175,1656397175,"DBL OISD",1658720393,1252460,0,2
